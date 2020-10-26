@@ -68,7 +68,7 @@ DeviceEventEmitter.addListener('pushOpened', (e: Event) => {
  //   alert(JSON.stringify(e));
  // });
 
-Pushwoosh.init({ "pw_appid" : "5F4B2-01599", "secret_key":"ubyTXQu6rUkGY2Bw04yAbO9k"});
+Pushwoosh.init({ "pw_appid" : "5F4B2-01599", "baidu_api_key":"ubyTXQu6rUkGY2Bw04yAbO9k"});
 
 Pushwoosh.register(
   (token) => {

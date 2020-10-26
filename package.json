@@ -9,7 +9,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "pushwoosh-react-native-baidu-plugin": "^1.0.0",
+    "pushwoosh-react-native-baidu-plugin": "^1.0.1",
     "react": "16.13.1",
     "react-native": "0.63.2"
   },
